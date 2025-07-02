@@ -81,7 +81,7 @@ This diagram shows the data flow between Suricata, the attacker machine, and Spl
 ## 🚀 Getting Started
 
 1. Clone this repo to your VM or workstation
-2. Start with [`part-1.md`](./part-1.md) and follow each section in order
+2. Start with [Part-1](./Part-1%20Suricata%20Installation%20&%20Configuration.md) and follow each section in order
 3. Use the PCAP lab (`pcap-transfer.md`) for replaying traffic without active scanning
 
 ---

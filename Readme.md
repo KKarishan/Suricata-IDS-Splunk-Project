@@ -99,6 +99,3 @@ This diagram shows the data flow between Suricata, the attacker machine, and Spl
 Found a bug or want to contribute improvements?
 Feel free to open an issue or submit a pull request.
 
----
-
-Would you like me to generate this as a `README.md` file ready to use — or push this into a file structure for GitHub usage?
